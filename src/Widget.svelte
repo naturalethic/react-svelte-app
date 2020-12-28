@@ -1,0 +1,3 @@
+<div>
+  Svelte Widget
+</div>
